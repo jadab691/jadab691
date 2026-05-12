@@ -1,9 +1,5 @@
-<h1 align="center">Hey 👋, I'm Jadab Sarkar</h1>
+<h1 align="center">Wellcome to the ভাতের হোটেল of  Jadab </h1>
 
-<h3 align="center">
-🚀 CSE Student • MERN Stack Developer • Competitive Programmer  
-☕ Surviving on bugs, caffeine & bad decisions
-</h3>
 
 <br>
 
@@ -13,7 +9,7 @@
 
 ---
 
-## 🌍 Location
+## Location
 📍 Sylhet, Bangladesh  
 🏠 221B Baker Street (probably)
 
@@ -21,11 +17,13 @@
 
 ## 🧠 About Me
 
-- 🎓 CSE Student at North East University Bangladesh
+
 - 💻 Building MERN stack projects
-- ⚡ Learning Competitive Programming with C++
+- ⚡ A student of Backend development , AI , ML , MERN  but not academic CSE .  
+    Surviving on bugs and bad decisions
 - 📱 Working on full-stack + mobile apps
 - 💤 Professional bug creator
+- 🎓 CSE Student(shame) at North East University Bangladesh
 
 ---
 
