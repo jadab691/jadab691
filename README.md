@@ -1,79 +1,101 @@
+```md
+<h1 align="center">Hey 👋, I'm Jadab Sarkar</h1>
+
+<h3 align="center">
+🚀 CSE Student • MERN Stack Developer • Competitive Programmer  
+☕ Surviving on bugs, caffeine & bad decisions
+</h3>
+
+<br>
+
 <div align="center">
-<!--   <img height="150" src="https://avatars.githubusercontent.com/u/89353441"  /> -->
- <!-- <img height="150" src="https://github.com/ahnayef/ahnayef/raw/main/assets/ahn.gif" /> -->
-  <img height="150" src="https://github.com/ahnayef/ahnayef/raw/main/assets/logo-ahn.gif" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Enjoyer;Competitive+Programming+Learner;I+debug+at+3AM;Welcome+to+দেবদাস+ভাতের+হোটেল_২০০২" />
 </div>
 
-###
-<h3 align="center">AHN ☪</h3>
-<!-- <h3 align="center"><a href="https://ahnayef.t.me/" target="_blank">@AHNayef</a></h3> -->
+---
 
+## 🌍 Location
+📍 Sylhet, Bangladesh  
+🏠 221B Baker Street (probably)
 
-###
+---
+
+## 🧠 About Me
+
+- 🎓 CSE Student at North East University Bangladesh
+- 💻 Building MERN stack projects
+- ⚡ Learning Competitive Programming with C++
+- 📱 Working on full-stack + mobile apps
+- 💤 Professional bug creator
+
+---
+
+# ⚒️ Tech Stack
 
 <div align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&rank_icon=github&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&custom_title=Github&Stats&username=ahnayef" height="150" alt="stats graph"  /> -->
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=false&username=ahnayef" height="150" alt="languages graph"  /> -->
-   <img src="https://github-readme-stats-fast.vercel.app/api?username=ahnayef&hide=contribs&show_icons=true&theme=transparent&rank_icon=github&title_color=#48D2B0" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ahnayef&layout=compact&theme=transparent&title_color=#48D2B0" height="150" alt="languages graph"  />
-  
- 
-</div>
 
-###
-<img src="https://raw.githubusercontent.com/ahnayef/ahnayef/main/assets/effect.gif">
-
-<div align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" alt="typescript logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="30" alt="filezilla logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="30" alt="slack logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,python,html,css,react,nodejs,express,mongodb,mysql,tailwind,git,github,vscode,postman,netlify,powershell" />
 
 </div>
 
-###
+---
+
+# 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://t.me/ahnayef" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" height="40" alt="telegram logo"  />
-  </a>
-  <a href="https://discord.com/users/783328131377135626" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" height="40" alt="discord logo"  />
-  </a>
-  <a href="mailto:ahnayef.me@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" height="40" alt="gmail logo"  />
-  </a>
-  <a href="mailto:ahnayef@outlook.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" height="40" alt="microsoft-outlook logo"  />
-  </a>
+
+<a href="mailto:sarkarjadab83@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/jadab_691/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/jadab-ba844a356/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/8801640102335">
+  <img src="https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
 </div>
 
-###
+---
 
-<br clear="both">
+# 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=ahnayef&theme=transparent&title_color=#48D2B0" height="150" alt="Streak"/>
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=jadab691&show_icons=true&theme=tokyonight"/>
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadab691&layout=compact&theme=tokyonight"/>
+
 </div>
-<br clear="both">
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jadab691&theme=tokyonight" />
+</div>
+
+---
+
+# 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahnayef/ahnayef/main/snake.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahnayef/ahnayef/main/snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/ahnayef/ahnayef/main/snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+  
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </picture>
 
-###
+---
+
+<div align="center">
+
+### 🥀 "There is nothing either good or bad, but thinking makes it so."
+
+</div>
+```
