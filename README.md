@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Hey 👋, I'm Jadab Sarkar</h1>
 
 <h3 align="center">
