@@ -4,7 +4,7 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Enjoyer;Competitive+Programming+Learner;I+debug+at+3AM;Welcome+to+দেবদাস+ভাতের+হোটেল_২০০২" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=I started coding only for money ;then i learned that Greed leads to sin, and sin leads to death. ;Now I've became a philosopher ;I+debug+at+3AM;Welcome+to+দেবদাস+ভাতের+হোটেল_২০০২" />
 </div>
 
 ---
