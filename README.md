@@ -4,7 +4,7 @@
 ## sarkarjadab83@gmail.com
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2000&pause=1000&color=FF0055&center=true&vcenter=true&multiline=true&width=650&height=120&lines=I+started+coding+only+for+money...;Learned+that+greed+leads+to+sin%2C+and+sin+leads+to+death.;Now+I've+become+a+philosopher.;I+debug+at+3+AM.;Welcome+to+%E0%A6%A6%E0%A7%87%E0%A6%AC%E0%A6%A6%E0%A6%BE%E0%A6%B8+%E0%A6%AD%E0%A6%BE%E0%A6%A4%E0%A6%AE%E0%A6%B0+%E0%A6%B9%E0%A7%8B%E0%A6%9F%E0%A7%87%E0%A6%B2+%E0%A7%A8%E0%A7%A6%E0%A7%A6%E0%A7%A7" alt="Glowing Devdas Quote" /> 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2000&pause=1000&color=FFFFFF&center=true&vcenter=true&multiline=true&width=650&height=120&lines=I+started+coding+only+for+money...;Learned+that+greed+leads+to+sin%2C+and+sin+leads+to+death.;Now+I've+become+a+philosopher.;I+debug+at+3+AM.;Welcome+to+%E0%A6%A6%E0%A7%87%E0%A6%AC%E0%A6%A6%E0%A6%BE%E0%A6%B8+%E0%A6%AD%E0%A6%BE%E0%A6%A4%E0%A7%87%E0%A6%B0+%E0%A6%B9%E0%A7%8B%E0%A6%9F%E0%A7%87%E0%A6%B2+%E0%A7%A8%E0%A7%A6%E0%A7%A6%E0%A7%A7" alt="Glowing Devdas Quote" />
 
 <br>
 
